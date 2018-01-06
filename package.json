@@ -10,8 +10,7 @@
         "test": "ng test",
         "lint": "ng lint",
         "e2e": "ng e2e",
-        "heroku-postbuild": "ng build --prod --aot=false --no-extract-license",
-        "deploy": "git push origin master && git push heroku master"
+        "heroku-postbuild": "ng build --prod --aot=true --no-extract-license"
     },
     "private": true,
     "dependencies": {
