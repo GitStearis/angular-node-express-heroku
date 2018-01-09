@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://codeclimate.com/github/GitStearis/angular-node-express-heroku/maintainability"><img src="https://api.codeclimate.com/v1/badges/c42a191c5778e79a8754/maintainability" /></a>
     <a class="badge-align" href="https://www.codacy.com/app/GitStearis/angular-node-express-heroku?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=GitStearis/angular-node-express-heroku&amp;utm_campaign=Badge_Grade"><img src="https://api.codacy.com/project/badge/Grade/c5aa2a3d3fb440bab3e55951c755cb69"/></a>
-    <a href="https://circleci.com/gh/GitStearis/angular-node-express-heroku"><img src="https://circleci.com/gh/GitStearis/angular-node-express-heroku/tree/master.svg?style=svg?style=shield" /></a>
+    <a href="https://circleci.com/gh/GitStearis/angular-node-express-heroku"><img src="https://circleci.com/gh/GitStearis/angular-node-express-heroku/tree/master.svg?style=shield" /></a>
 </p>
 
 # angular-node-express-heroku
