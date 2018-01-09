@@ -4,7 +4,7 @@
     "license": "ISC",
     "scripts": {
         "ng": "ng",
-        "dev": "ng serve --proxy-config proxy.config.json",
+        "dev": "ng serve",
         "start": "node server.js",
         "build": "ng build",
         "test": "ng test --watch=false",
